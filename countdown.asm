@@ -1,3 +1,4 @@
+; simple countdown program for little man computer  
         INP
         STA COUNT
         LDA COUNT
