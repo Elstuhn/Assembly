@@ -1,4 +1,4 @@
-:test
+;test
 STARTING INP
         STA COUNT
         SUB FOUR
