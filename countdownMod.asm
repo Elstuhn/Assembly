@@ -1,4 +1,4 @@
-;test
+; A countdown program just with an input restriction of 3-7 (exclusive)
 STARTING INP
         STA COUNT
         SUB FOUR
