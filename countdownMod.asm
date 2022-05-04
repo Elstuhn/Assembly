@@ -1,4 +1,4 @@
-; A countdown program just with an input restriction of 3-7 (exclusive)
+; A countdown program just with an input restriction of 3-7 (exclusive) for little man computer
 STARTING INP
         STA COUNT
         SUB FOUR
